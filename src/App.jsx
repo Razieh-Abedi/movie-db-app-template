@@ -5,14 +5,12 @@ import Movie from "./SingleMovie";
 import Home from "./Home";
 
 function App() {
-  
   return (
     <BrowserRouter>
       <AppProvider>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="movies/:id" element={<Movie />} />
-          
         </Routes>
       </AppProvider>
     </BrowserRouter>

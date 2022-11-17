@@ -279,3 +279,10 @@ Single Movie
   text-align: center;
   padding: 2rem;
 }
+.footer {
+  text-align: center;
+}
+.footer-link {
+  text-decoration: none;
+  color: black;
+}
