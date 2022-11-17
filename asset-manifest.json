@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-db-app-template/static/css/main.6de560be.css",
+    "main.js": "/movie-db-app-template/static/js/main.e2be1630.js",
+    "index.html": "/movie-db-app-template/index.html",
+    "main.6de560be.css.map": "/movie-db-app-template/static/css/main.6de560be.css.map",
+    "main.e2be1630.js.map": "/movie-db-app-template/static/js/main.e2be1630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6de560be.css",
+    "static/js/main.e2be1630.js"
+  ]
+}
