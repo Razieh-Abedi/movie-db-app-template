@@ -8,7 +8,7 @@ function Home() {
     <div>
       <SearchForm />
       <Movies />
-      <footer className="footer">
+      {/* <footer className="footer">
         <a
           href="https://raziwebdeveloper.com/"
           target="_blank"
@@ -17,7 +17,7 @@ function Home() {
         >
           Developed with ❤ by raziwebdeveloper.com
         </a>
-      </footer>
+      </footer> */}
     </div>
   );
 }
