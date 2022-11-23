@@ -14,7 +14,7 @@ function App() {
           <Route path="movies/:id" element={<Movie />} />
         </Routes>
       </BrowserRouter>
-      <footer className="footer">
+      {/* <footer className="footer">
         <a
           href="https://raziwebdeveloper.com/"
           target="_blank"
@@ -23,7 +23,7 @@ function App() {
         >
           Developed with ❤ by raziwebdeveloper.com
         </a>
-      </footer>
+      </footer> */}
     </AppProvider>
   );
 }
